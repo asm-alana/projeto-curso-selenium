@@ -1,9 +1,5 @@
 package br.ce.wcaquino.core;
 
-/*
- * Classe com as propriedades dos browsers
- */
-
 public class Propriedades {
 
 	public static boolean FECHAR_BROWSE = false;
